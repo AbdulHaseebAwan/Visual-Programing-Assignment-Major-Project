@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210587658212",
+    "project_id": "foodapp1haseeb",
+    "storage_bucket": "foodapp1haseeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210587658212:android:628e476e55ada6352ac9f1",
+        "android_client_info": {
+          "package_name": "com.example.ecomerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjTeiGdczMy3RHN0_1yX0teMDp-4BC9hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
